@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class files
+*.class
+
+# Build output
+out/
+build/
+target/
+
+# Local MCP server config (machine-specific)
+.mcp.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
